@@ -35,4 +35,9 @@
       <option name="DART_STATEMENT" value="true"/>
     </context>
   </template>
+  <template name="snackbar" value="ScaffoldMessenger.of(context).showSnackBar($END$);" description="Create a new SnackBar" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART_STATEMENT" value="true"/>
+    </context>
+  </template>
 </templateSet>
